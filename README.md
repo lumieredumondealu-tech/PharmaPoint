@@ -1,2 +1,12 @@
-#uses: actions/upload-artifact@v3 PharmaPoint
-Logiciel commercial de gestion pharmaceutique - Licence propriétaire
+
+PharmaPoint/
+├── app/
+├── gradle/
+├── build.gradle
+├── settings.gradle
+├── gradlew
+├── gradlew.bat
+├── gradle.properties
+└── .github/
+    └── workflows/
+        └── build-apk.yml
