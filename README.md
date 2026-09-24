@@ -9,4 +9,4 @@ PharmaPoint/
 ├── gradle.properties
 └── .github/
     └── workflows/
-        └── build-apk.yml
+        └── build-apk.ym
