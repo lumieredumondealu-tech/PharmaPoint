@@ -3,8 +3,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="ci.pharmapoint.patient">
 
-    <!-- Connexion Internet nécessaire pour Supabase -->
+    <!-- Connexion Internet nécessaire pour Supabase et Firebase -->
     <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- Notifications Android 13 et versions ultérieures -->
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
 
     <!-- Localisation -->
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
