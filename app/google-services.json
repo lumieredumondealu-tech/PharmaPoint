@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142714453993",
+    "project_id": "pharmapoint-c3af1",
+    "storage_bucket": "pharmapoint-c3af1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142714453993:android:399645fa2f9c9d298f9578",
+        "android_client_info": {
+          "package_name": "ci.pharmapoint.patient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgCDM0GpTwtP517VHZ_XBR0dWs_-Gg52o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
